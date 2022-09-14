@@ -1,0 +1,15 @@
+id,labels,merge
+0,adhesiolysis,preperioneal dissection
+1,blurry,PREV
+2,catheter insertion,mesh placement
+3,mesh placement,
+4,mesh positioning,mesh placement
+5,out of body,
+6,peritoneal closure,
+7,peritoneal scoring,
+8,positioning suture,mesh placement
+9,preperioneal dissection,
+10,primary hernia repair,reduction of hernia
+11,reduction of hernia,
+12,stationary idle,transitionary idle
+13,transitionary idle,
